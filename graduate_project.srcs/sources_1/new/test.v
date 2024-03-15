@@ -25,12 +25,6 @@ input a,
 input c,
 output b
     );
-<<<<<<< HEAD
 assign b=a&c;
 //main txt    
-=======
-assign b=a+c;
-//txt for test_brach
-    
->>>>>>> test_brach
 endmodule
