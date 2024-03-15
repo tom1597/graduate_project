@@ -22,7 +22,9 @@
 
 module test(
 input a,
+input c,
 output b
     );
-assign b=a;    
+assign b=a&c;
+    
 endmodule
