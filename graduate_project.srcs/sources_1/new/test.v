@@ -25,6 +25,6 @@ input a,
 input c,
 output b
     );
-assign b=a&c;
+assign b=a+c;
     
 endmodule
