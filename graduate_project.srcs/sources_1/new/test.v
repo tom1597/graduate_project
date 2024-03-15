@@ -26,5 +26,5 @@ input c,
 output b
     );
 assign b=a&c;
-    
+//main txt    
 endmodule
