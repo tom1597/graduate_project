@@ -26,5 +26,6 @@ input c,
 output b
     );
 assign b=a+c;
+//txt for test_brach
     
 endmodule
